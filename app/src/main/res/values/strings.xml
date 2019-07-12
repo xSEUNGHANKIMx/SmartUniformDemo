@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Uniform</string>
+    <string name="title_activity_origin_video">Original</string>
+    <string name="title_activity_video_result">Result</string>
+</resources>
